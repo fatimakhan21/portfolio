@@ -6,30 +6,30 @@ This portfolio contains all my projects, reports, certificates, and learning jou
 
 ---
 
-## 📂 Portfolio Sections
+## Portfolio Sections
 
-### 🔵 Front-End Projects
+### Front-End Projects
 - Weather App 
 - Yogurt Project
 - Web Portfolio
 
-### 🔐 Cybersecurity Projects
+### Cybersecurity Projects
 - API Security Testing – DVW Bank (report coming soon)
 - DVWA Vulnerability Writeups
 - Cisco Junior Cybersecurity Certificate
 
-### 📝 Writeups
+### Writeups
 - TryHackMe learning notes
 - Vulnerability explanations (IDOR, XSS, CSRF)
 
-### 📜 Certificates
+### Certificates
 - Cisco Junior Cybersecurity
 - API Fundamentals
 - API Autentication
 
 ---
 
-## 🔧 Skills
+## Skills
 **Cybersecurity:**  
 API Security • Burp Suite • Postman • Web Vulnerability Testing • Linux 
 
